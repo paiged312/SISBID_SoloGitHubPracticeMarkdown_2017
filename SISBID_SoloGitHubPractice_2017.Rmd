@@ -11,6 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Now I'm practicing making a GitHub Repo on my own.
 
+Still trying to push it up.
 
 ```{r cars}
 paste0("This", " is", " practice.")
