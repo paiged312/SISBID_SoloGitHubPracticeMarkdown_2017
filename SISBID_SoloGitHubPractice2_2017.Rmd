@@ -1,0 +1,12 @@
+---
+title: "SISBID_SoloGitHubPractice2_2017"
+author: "Paige Wartko"
+date: "July 18, 2017"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning=F)
+```
+
+This is the second file I created, and I'll be pushing it up to GitHub.
